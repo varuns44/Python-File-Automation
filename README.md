@@ -5,12 +5,10 @@ The Folder Automation project demonstrates how Python can automate repetitive fi
 # Implemented Features
 - Basic File Organization
 - GUI Workflow
+- File Stats Dashboard
 
 # Features yet to be Implemented
 - Scheduled Automation
-- File Stats Dashboard
-
-# Work in Progress
 
 
   
