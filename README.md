@@ -6,9 +6,9 @@ The Folder Automation project demonstrates how Python can automate repetitive fi
 - Basic File Organization
 - GUI Workflow
 - File Stats Dashboard
-
-# Features yet to be Implemented
 - Scheduled Automation
+
+## PROJECT STATUS (COMPLETED)
 
 
   
