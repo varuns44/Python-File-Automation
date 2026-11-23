@@ -8,7 +8,7 @@ The Folder Automation project demonstrates how Python can automate repetitive fi
 - File Stats Dashboard
 - Scheduled Automation
 
-## PROJECT STATUS (COMPLETED)
+## PROJECT STATUS (COMPLETED) for the time being
 
 
   
