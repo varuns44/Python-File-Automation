@@ -3,12 +3,13 @@ The Downloads Folder Automation project demonstrates how Python can automate rep
 
 # Implemented Features
 - Basic File Organization
+- GUI Workflow
 
 # Features yet to be Implemented
 - Scheduled Automation
 - File Stats Dashboard
 
 # Work in Progress
-- GUI Workflow
+
 
   
